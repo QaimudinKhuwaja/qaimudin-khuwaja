@@ -18,7 +18,8 @@ const page = () => {
     <Projects/>
     <Pinpoints/>
     <Service/>
-    <Contact />
+    <Contact/>
+    
     </>
   )
 }

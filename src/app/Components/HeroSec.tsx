@@ -39,7 +39,7 @@ export default function Hero() {
               transition={{ delay: 0.5, duration: 1 }}
               className="text-lg md:text-xl font-medium text-neutral-400"
             >
-              Transforming Ideas into Modern Web Experiences 🚀
+              Transforming Ideas into Modern Web Experiences 🧠
             </motion.h2>
 
             <motion.p

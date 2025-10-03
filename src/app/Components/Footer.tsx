@@ -8,7 +8,6 @@ import {
   FaTwitter,
   FaInstagram,
   FaYoutube,
-  FaDiscord,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -31,9 +30,9 @@ const Footer = () => {
             { icon: <FaEnvelope size={22} />, link: "mailto:farazahmedkhuwaja171@gmail.com" },
             { icon: <FaFacebook size={22} />, link: "https://facebook.com/QaimudinKhuwaja" },
             { icon: <FaTwitter size={22} />, link: "https://twitter.com/QaimudinKhuwaja" },
-            { icon: <FaInstagram size={22} />, link: "https://instagram.com/" },
-            { icon: <FaYoutube size={22} />, link: "https://youtube.com/codewithfaraz" },
-            { icon: <FaDiscord size={22} />, link: "https://discord.com/" },
+            { icon: <FaInstagram size={22} />, link: "https://www.instagram.com/faraz_khuwajaa?igsh=bGRtOTV1bGo3emM1" },
+            { icon: <FaYoutube size={22} />, link: "https://youtube.com/@codewithfarazz?si=tkB_YMm6A8sZiVzQ" },
+            
           ].map((item, i) => (
             <Link
               key={i}

@@ -39,7 +39,7 @@ export default function About() {
           <p className="text-neutral-300 leading-relaxed text-lg mb-6">
             My self{" "}
             <span className="text-yellow-400 font-semibold">
-              Qaimudin Khuwaja 🕵🏻‍♀️
+              Qaimudin Khuwaja😎
             </span>
             . I am a{" "}
             <span className="text-purple-400 font-semibold">
@@ -62,12 +62,12 @@ export default function About() {
               JavaScript
             </span>
             , where I focus on building fast, responsive, and user-friendly
-            applications. 🚀
+            applications. 😊
           </p>
 
           <p className="text-neutral-300 leading-relaxed text-lg mb-6">
             Alongside frontend development, I am deeply engaged in{" "}
-            <span className="text-yellow-400 font-semibold">Agentic AI</span>,
+            <span className="text-yellow-400 font-semibold">Agentic AI 🤖</span>,
             creating{" "}
             <span className="text-purple-400 font-semibold">
               AI-driven projects
@@ -88,13 +88,13 @@ export default function About() {
             <span className="text-pink-400 font-semibold">cutting-edge AI</span>
             . My mission is simple: to bridge the gap between{" "}
             <span className="text-yellow-400 font-semibold">
-              intelligent AI systems
+              intelligent AI systems 👀
             </span>{" "}
             and{" "}
             <span className="text-purple-400 font-semibold">
               user-centric applications
             </span>{" "}
-            for the next generation of digital experiences. 🎯
+            for the next generation of digital experiences. 🙌
           </p>
         </motion.div>
       </div>
