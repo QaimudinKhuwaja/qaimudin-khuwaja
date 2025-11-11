@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import myphoto from "../assets/my-ai-profile.png";
+import myphoto from "../assets/qaimudin-khuwaja.png";
 import { motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 
@@ -114,7 +114,7 @@ export default function Hero() {
               <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden ring-4 ring-purple-500/40 group-hover:ring-yellow-400/60 transition-all duration-500">
                 <Image
                   src={myphoto}
-                  alt="Profile"
+                  alt="Qaimudin Khuwaja"
                   width={300}
                   height={300}
                   className="object-cover w-full h-full scale-100 group-hover:scale-105 transition-transform duration-500"
